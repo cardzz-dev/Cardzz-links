@@ -1,3 +1,3 @@
 # Cardzz-links
-Site com meus links para contato e portifólio, usando vercel para deploy.
+Site com meus links para contato e portfólio, usando vercel para deploy.
 
